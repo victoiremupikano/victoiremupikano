@@ -1,5 +1,4 @@
-<!--
-**Je suis Victoire de RDC, vivant à Butembo 🌴, développeur Backend principalement. J'aime vraiment apprendre des langages et des frameworks comme Python, Rust et Django.
+Je suis Victoire de RDC, vivant à Butembo 🌴, développeur Backend principalement. J'aime vraiment apprendre des langages et des frameworks comme Python, Rust et Django.
 
 Autres:
 
@@ -9,4 +8,3 @@ Autres:
 - 🤔 I’m looking for help with ...
 - 💬 Me joindre sur Facebook, Instagram
 - ⚡ Fun fact: Je touche aussi au .net avec C#, au C, C++ ...
--->
