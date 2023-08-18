@@ -8,8 +8,14 @@ Autres:
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: Je touche aussi au .net avec C#, au C, C++ ...
 
-- 💬 Me joindre :
+💬 Me joindre :
 
-[![img_contact](./img/facebook.svg)](https://web.facebook.com/victoire.mupikano/)
-[![img_contact](./img/instagram.svg)](https://www.instagram.com/victoirempkn/)
-[![img_contact](./img/linkedin.svg)](https://www.linkedin.com/in/kasereka-ushindi-b4628a239/)
+[![img_contact](./img/globe-light.svg)](https://web.facebook.com/victoire.mupikano#gh-light-mode-only)
+[![img_contact](./img/globe-dark.svg)](https://web.facebook.com/victoire.mupikano#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/kasereka-ushindi-b4628a239/#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kasereka-ushindi-b4628a239/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![img_contact](./img/instagram-light.svg)](https://www.instagram.com/victoirempkn#gh-light-mode-only)
+[![img_contact](./img/instagram-dark.svg)](https://www.instagram.com/victoirempkn#gh-dark-mode-only)
+
