@@ -9,5 +9,7 @@ Autres:
 - 💬 Me joindre sur Facebook, Instagram
 - ⚡ Fun fact: Je touche aussi au .net avec C#, au C, C++ ...
 
-#GH-LIGHT-MODE-ONLY
-#GH-DARK-MODE-ONLY
+[![img_contact](./img/facebook.svg)](https://web.facebook.com/victoire.mupikano/)
+[![img_contact](./img/twitter.svg)](https://twitter.com/KaserekaUshind1)
+[![img_contact](./img/instagram.svg)](https://www.instagram.com/victoirempkn/)
+[![img_contact](./img/linkedin.svg)](https://www.linkedin.com/in/kasereka-ushindi-b4628a239/)
